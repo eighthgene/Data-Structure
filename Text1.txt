@@ -1,0 +1,12 @@
+<Plana numero=1>
+Un $arbre $binari ?s una estructura de dades en la que cada $node sempre t? un fill 
+esquerre i un fill dret. L?arbre binari te diferents $especificacions particulars, l?arbre 
+binari de $cerca, el $monticle, entre altres.
+<Plana numero=2>
+El monticle binari ?s un cas particular on tot node t? un valor superior al dels seus fills i 
+a m?s compleix la propietat de que ?s un arbre $complet.
+<Plana numero=3>
+Un arbre ?s $equilibrat si per a qualsevol node la difer?ncia d?al?ades entre els seus dos 
+fills ?s inferior a 2.
+Un arbre ?s complet quan est? equilibrat i totes les fulles del nivell inferior es troben a 
+la part esquerra de l?arbre.

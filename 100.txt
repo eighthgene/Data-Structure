@@ -1,0 +1,4 @@
+Un arbre binari es una estructura de dades en la que cada node sempre te un fill arbre
+esquerre i un fill dret. L'arbre binari te diferents especificacions particulars, l'arbre
+binari de cerca, el monticle, entre altres.
+
